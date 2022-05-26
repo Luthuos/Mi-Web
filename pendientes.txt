@@ -1,0 +1,15 @@
+ Partes de la app principal (en divs):
+    Fondo (para la animación de fondo)
+    Pantalla logo + esfumar
+    componentes de información sobre mi
+    header
+    footer
+
+instalar git pages
+configurar package.json para montar en git
+Crear logo
+
+1º Crear el fondo con animación
+2º Pantalla + Logo desvaneciente
+3º Efecto de entrada de "cosas sobre mi"
+4º Publicar en Web
