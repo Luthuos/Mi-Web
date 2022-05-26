@@ -13,3 +13,8 @@ Crear logo
 2º Pantalla + Logo desvaneciente
 3º Efecto de entrada de "cosas sobre mi"
 4º Publicar en Web
+
+
+ACLARACIONES - TIPS:
+/*El contenedor del logo debe ser hijo directo del contenedor fondo
+      para poder taparlo por completo */
